@@ -1,5 +1,4 @@
 import { Status } from '../../createTaskForm/enums/status';
-
 export type TaskCounterType =
   | Status.completed
   | Status.inProgress
